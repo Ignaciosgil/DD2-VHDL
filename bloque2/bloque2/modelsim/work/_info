@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/quartus
+Eagente_spi
+Z0 w1708460853
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Sole/Desktop/bloque2/modelsim
+Z6 8C:/Users/Sole/Desktop/bloque2/modelsim/agente_spi.vhd
+Z7 FC:/Users/Sole/Desktop/bloque2/modelsim/agente_spi.vhd
+l0
+L5
+VmID_i=?[;Hfzo0Pjcn7TT2
+!s100 [Hc6MCJ]Fg_6cCD<86=II2
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1713266508
+!i10b 1
+Z10 !s108 1713266508.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sole/Desktop/bloque2/modelsim/agente_spi.vhd|
+Z12 !s107 C:/Users/Sole/Desktop/bloque2/modelsim/agente_spi.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Asim
+R1
+R2
+R3
+R4
+DEx4 work 10 agente_spi 0 22 mID_i=?[;Hfzo0Pjcn7TT2
+l43
+L15
+VQDe<5_AaWQNmQHAh04UWQ3
+!s100 R=SYS0M6T@oSlmHifaBG]3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emaster_spi_4_hilos
+Z15 w1713473455
+R1
+R2
+R3
+R4
+R5
+Z16 8C:/Users/Sole/Desktop/bloque2/hdl/master_spi_4_hilos.vhd
+Z17 FC:/Users/Sole/Desktop/bloque2/hdl/master_spi_4_hilos.vhd
+l0
+L5
+V:lalAkTDS^g354OTi_d?f1
+!s100 @ePF8<aTg:7`?D^WgRW9`3
+R8
+32
+Z18 !s110 1713473991
+!i10b 1
+Z19 !s108 1713473991.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sole/Desktop/bloque2/hdl/master_spi_4_hilos.vhd|
+Z21 !s107 C:/Users/Sole/Desktop/bloque2/hdl/master_spi_4_hilos.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z22 DEx4 work 18 master_spi_4_hilos 0 22 :lalAkTDS^g354OTi_d?f1
+l44
+L24
+V6W9CXQa@d1=gjDV6l1Wfz0
+!s100 N;eP]Mzi^ScO_<9mbW=7b3
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Etest_top
+w1708604394
+R1
+R2
+R3
+R4
+R5
+8C:/Users/Sole/Desktop/bloque2/modelsim/test_top.vhd
+FC:/Users/Sole/Desktop/bloque2/modelsim/test_top.vhd
+l0
+L5
+VTeAIEAd4d8PI@zPf1U[9^3
+!s100 PDleSMQUDFG3`688GI4oj3
+R8
+32
+!s110 1713466569
+!i10b 1
+!s108 1713466569.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sole/Desktop/bloque2/modelsim/test_top.vhd|
+!s107 C:/Users/Sole/Desktop/bloque2/modelsim/test_top.vhd|
+!i113 1
+R13
+R14
